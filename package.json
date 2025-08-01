@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/wchro/12-factor#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "bull": "^4.16.5",
+    "express": "^5.1.0",
+    "pg": "^8.16.3"
   }
 }
